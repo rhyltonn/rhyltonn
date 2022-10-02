@@ -5,8 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/rhyltonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhyltonn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rhyltonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhyltonn" height="30" width="40" /></a>
-<a href="https://fb.com/rhyltonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rhyltonn" height="30" width="40" /></a>
-<a href="https://instagram.com/rhyltonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rhyltonn" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
